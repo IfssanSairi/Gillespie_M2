@@ -1,0 +1,12 @@
+name,number,free_energy,concentration_ext
+A,500,0,0.5
+B,500,0,0.5
+C,500,0,0.5
+AB,50,0,0
+ABA,0,0,0
+ABAB,0,0,0
+ABC,0,0,0
+ABCB,0,0,0
+CB,0,0,0
+CBC,0,0,0
+CBCB,0,0,0
